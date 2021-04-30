@@ -28,7 +28,7 @@ Read my article: [The State of the Modern Web](https://awstip.com/the-state-of-t
 [![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=9745f5&labelColor=000000)](https://archlinux.org/)
 
 [![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=9745f5&labelColor=000000)](https://www.digitalocean.com/)
-[![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=azure&logoColor=white&color=9745f5&labelColor=000000)](https://azure.microsoft.com/en-us/)
+[![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=9745f5&labelColor=000000)](https://azure.microsoft.com/en-us/)
 
 ## 🎉 My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakeinstein&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
