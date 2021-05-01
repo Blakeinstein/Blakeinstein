@@ -7,7 +7,7 @@ Hi, I'm Rishikesh Anand! A developer, software engineer and a tech enthusiast. I
 
 ## ✍ Articles..
 
-I have begun writing some articles on [Medium](https://blainesensei.medium.com/), availabe here. I hope to write more and often.
+I have begun writing some articles on [Medium](https://blainesensei.medium.com/). I am trying to write more and often.
 
 Read my article: [The State of the Modern Web](https://awstip.com/the-state-of-the-modern-web-1b1521a51fc9).
 
