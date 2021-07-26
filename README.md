@@ -1,9 +1,8 @@
-
 <!-- [![Header](https://raw.githubusercontent.com/Blakeinstein/Blakeinstein.github.io/4807bcbf8b03bd984aad6ba8d9f5e50f597e1fab/src/assets/logo.svg "Header")](https://blaine.is-a.dev/) -->
-
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rishikesh "Blaine" Anand!
 
 Hi, I'm Rishikesh Anand! A developer, software engineer and a tech enthusiast. I love to try new things, explore possibilites and anything that amuses my curiosity. I am currently pursuing a degree in Computer Science and Engineering at, National Institute of Technology, Delhi.
+![](https://hit.yhype.me/github/profile?user_id=42214598)
 
 ## ✍ Articles..
 
@@ -30,14 +29,22 @@ Read my article: [The State of the Modern Web](https://awstip.com/the-state-of-t
 [![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=9745f5&labelColor=000000)](https://www.digitalocean.com/)
 [![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=9745f5&labelColor=000000)](https://azure.microsoft.com/en-us/)
 
-## 🎉 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakeinstein&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Blaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakeinstein&show_icons=true&hide=stars&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary> 🎉 My GitHub Stats </summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakeinstein&layout=compact&theme=midnight-purple" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Github profile" src="https://github-readme-stats.vercel.app/api?username=blakeinstein&show_icons=true&hide=stars&theme=midnight-purple" /></a>
+  <br/>
+</details>
 
-## Something about me
-- 🔭 I’m currently working on [get-rate](https://github.com/blakeinstein/get-rate)
-- 🌱 I’m currently learning GLSL and other Shader Languages
-- 👯 I’m looking to collaborate on Rust, JS, TS
-- 📫 How to reach me: Use the contact form on my website, available [here](https://blaine.is-a.dev/contact)
-- 😄 Pronouns: ~~Tanha/Lonely~~ He/Him
-- ⚡ Fun fact: [Javascript is weird](https://twitter.com/BlaineSensei/status/1387727861335822338?s=20)
+<details>
+  <summary> Something about me </summary>
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://github.com/blakeinstein/bloop">Bloop</a></li>
+    <li>🌱 I’m currently learning GLSL and other Shader Languages</li>
+    <li>👯 I’m looking to collaborate on Rust, JS, TS</li>
+    <li>📫 How to reach me: Use the contact form on my website, available <a href="https://blaine.is-a.dev/contact">here</a></li>
+    <li>😄 Pronouns: ~~Tanha/Lonely~~ He/Him</li>
+    <li>⚡ Fun fact: <a href="https://twitter.com/BlaineSensei/status/1387727861335822338?s=20">Javascript is weird</a></li>
+  </ul>
+ </details>
