@@ -40,7 +40,7 @@ Read my article: [The State of the Modern Web](https://awstip.com/the-state-of-t
 <details>
   <summary> Something about me </summary>
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/blakeinstein/bloop">Bloop</a></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/blakeinstein/mirin">Mirin</a></li>
     <li>🌱 I’m currently learning GLSL and other Shader Languages</li>
     <li>👯 I’m looking to collaborate on Rust, JS, TS</li>
     <li>📫 How to reach me: Use the contact form on my website, available <a href="https://blaine.is-a.dev/contact">here</a></li>
