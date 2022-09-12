@@ -1,7 +1,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/Blakeinstein/Blakeinstein.github.io/4807bcbf8b03bd984aad6ba8d9f5e50f597e1fab/src/assets/logo.svg "Header")](https://blaine.is-a.dev/) -->
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rishikesh "Blaine" Anand!
 
-Hi, I'm Rishikesh Anand! A developer, software engineer and a tech enthusiast. I love to try new things, explore possibilites and anything that amuses my curiosity. I am currently pursuing a degree in Computer Science and Engineering at, National Institute of Technology, Delhi.
+Hi, I'm Rishikesh Anand! A developer, software engineer and a tech enthusiast. I love to try new things, explore possibilites and anything that amuses my curiosity. I am currently pursuing a masters degree in Software Engineering at, Arizona State University.
 ![](https://hit.yhype.me/github/profile?user_id=42214598)
 
 ## ✍ Articles..
