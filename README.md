@@ -1,7 +1,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/Blakeinstein/Blakeinstein.github.io/4807bcbf8b03bd984aad6ba8d9f5e50f597e1fab/src/assets/logo.svg "Header")](https://blaine.is-a.dev/) -->
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rishikesh "Blaine" Anand!
 
-Hi, I'm Rishikesh Anand! A developer, software engineer and a tech enthusiast. I love to try new things, explore possibilites and anything that amuses my curiosity. I am currently pursuing a masters degree in Software Engineering at, Arizona State University.
+Hi, I'm Rishikesh Anand! A developer, software engineer and a tech enthusiast. I love to try new things, explore possibilites and anything that amuses my curiosity. Currently a Software Engineer at [TrueFoundry](https://truefoundry.com).
 ![](https://hit.yhype.me/github/profile?user_id=42214598)
 
 ## ✍ Articles..
@@ -39,11 +39,9 @@ Read my article: [The State of the Modern Web](https://awstip.com/the-state-of-t
 <details>
   <summary> Something about me </summary>
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/blakeinstein/mirin">Mirin</a></li>
     <li>🌱 I’m currently learning GLSL and other Shader Languages</li>
     <li>👯 I’m looking to collaborate on Rust, JS, TS</li>
     <li>📫 How to reach me: Use the contact form on my website, available <a href="https://blaine.is-a.dev/contact">here</a></li>
-    <li>😄 Pronouns: ~~Tanha/Lonely~~ He/Him</li>
     <li>⚡ Fun fact: <a href="https://twitter.com/BlaineSensei/status/1387727861335822338?s=20">Javascript is weird</a></li>
   </ul>
  </details>
